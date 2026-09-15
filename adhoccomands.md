@@ -1,4 +1,3 @@
-Absolutely. For teaching students, I would explain **Ansible Ad Hoc Commands** as: **“One-time commands to quickly perform a task on one or many servers, without writing a playbook.”**
 
 ## 1. What are Ad Hoc Commands?
 
